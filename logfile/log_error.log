@@ -1,0 +1,2 @@
+2021-09-26 20:03:38.656 [http-nio-8001-exec-9] ERROR com.wxy.servicebase.handler.GlobalException - 全局异常执行了
+2021-09-26 20:06:40.744 [http-nio-8001-exec-6] ERROR com.wxy.servicebase.handler.GlobalException - 全局异常执行了2Sun Sep 26 20:06:40 CST 2021
